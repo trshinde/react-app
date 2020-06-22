@@ -1,7 +1,15 @@
                                 MERN stack implementation of Movie type application
                                 
  Steps to execute the application
- ---> 
+ 
+ ---> git clone https://github.com/trshinde/react-app.git into your local directory within any folder.
+ ---> cd react-app
+ ---> Go to client (cd client) and install npm because node_modules folder is not pushed into repo   == npm install
+ ---> Go to server (cd server) and install npm because node_modules folder is not pushed into repo   == npm install
+ ---> cd ..  ==  revert back to react-app directory and then run:  npm run dev
+ ---> https://localhost:3000 will browse the application.
+ 
+ MongoDB is used database for this application and Robo-3T Database was used to locally store fields of the schema.
  
  
  Functionalities and Component details
